@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# this pack is valid for all apps
+echo "google-translate-api"
+exit 0
